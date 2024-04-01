@@ -8,7 +8,7 @@ Run the frontend locally.
 ```bash
 cd frontend
 npm i
-npm run dev
+npm run dev(instead of npx create)
 ```
 
 => [localhost:5173](http://localhost:5173/)
